@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+https://redpansitavsf.netlify.app/sitemap.xml
